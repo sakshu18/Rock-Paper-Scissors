@@ -1,5 +1,7 @@
 # Rock Paper Scissors Game ✊📄✂️
 
+[![GitHub Pages](https://img.shields.io/badge/View-Live-green?style=for-the-badge&logo=github)](https://sakshu18.github.io/Rock-Paper-Scissors/)
+
 A simple and fun **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
@@ -44,11 +46,14 @@ Rock-paper-scissors/
 
 ---
 
+
+---
+
 ## ⚙️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
